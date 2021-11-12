@@ -1,0 +1,76 @@
+---
+title: "paper draft"
+author: "rs"
+date: "21/10/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+```{r}
+
+library(janitor)
+library(dplyr)
+library(tidyr)
+library(corrplot)
+
+coding <- read.csv("data/feature_coding_data/output_irr2.csv") %>% 
+  clean_names() %>% 
+  select(-c(x,x_1))
+
+
+coding[coding == "Negative"] <- -1
+coding[coding == "Positive"] <- 1
+coding[coding == "Neutral"] <- 0
+
+# reviewers 5 and 6 flipped the coding so reverse this
+
+coding$r5 <- as.numeric(coding$r5)*-1
+coding$r6 <- as.numeric(coding$r6)*-1
+
+#  create score
+
+coding <- coding %>% 
+  mutate_at(c('r1',  'r2', 'r3', 'r4', 'r5', 'r6', 'r7'), as.numeric) %>% 
+  mutate(coding_score = rowSums(select(.,r1, r2, r3, r4,  r5, r6, r7), na.rm = TRUE))
+
+```
+
+
+
+Machine learning
+Environmental correlates of perceived safety
+Case study
+
+
+In this paper we explore the feasibility of using machine learning to identify features of the built environment associated with perceptions of safety. 
+
+We have 100 polygons representing areas of Székesfehérvár, Hungary which participants drew to represent the areas in which they feel safe, and the areas in which they feel unsafe. 
+
+We then used Google Street View to extract images that represent what is contained in each polygon. The Google Vision API was used to extract objects (environmental features) from these GSV images based on their pre-trained algorithm. Then, for each identified object, we use a dependency measure to understand how strongly correlated an object is to whether the area is perceived as safe or unsafe. Meanwhile, a small team of experts also coded each feature as to whether it is traditionally associated with fear of crime based on past research in this field.
+
+
+Considering the dependency measures, a total of 13 of the features are strongly dependent with the safe polygons, whereas 8 are strongly dependent with unsafe polygons. 
+
+Taking the list of features extracted, and asking a small team of 7 experts to code them whether or not they would expect these to be associated with perception of safety (negatively associated with fear of crime) or associated with perceptions of unsafety (positively associated with fear of crime. 
+
+The ratings are converted to scores, where a higher positive score means that more reviewers rated the features as positively associated with fear of crime (associated with areas perceived as unsafe) and a lower negative score means that more reviewers rated the features as negatively associated with fear of crime (associated with areas perceived as safe). So a score of -7 means all raters rated the item as negatively associated and a score of positive 7 means all raters rated the item as positively associated with fear of crime. 
+
+Interestingly of the `r nrow(coding)` items, there were none where all raters agreed in either direction, and so none of the items were rated with +7 or -7. We consider items which were rated 5 or higher or -5 or lower. 
+
+```{r}
+
+consensus <- coding %>% 
+  filter(coding_score >= 5 | coding_score <= -5)
+
+```
+     
+
+
+

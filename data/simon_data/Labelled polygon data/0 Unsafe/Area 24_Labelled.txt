@@ -1,0 +1,239 @@
+long 16.987253 lat 46.455229 viewpoint 0 degrees.jpeg,Building 95,Window 94,Urban design 85,Mode of transport 85,Tree 81,Asphalt 81,Font 80,Facade 79,Parking 77,City 75
+long 16.987253 lat 46.455229 viewpoint 180 degrees.jpeg,Building 87,Lighting 86,Asphalt 80,Window 79,Screenshot 77,Road 76,Display device 74,Font 73,Facade 73,Pedestrian 72
+long 16.987253 lat 46.455229 viewpoint 270 degrees.jpeg,Car 97,Cloud 97,Sky 96,Building 95,Vehicle 94,Window 90,Infrastructure 90,Asphalt 89,Tire 88,Wheel 87
+long 16.987253 lat 46.455229 viewpoint 90 degrees.jpeg,Cloud 97,Car 97,Wheel 95,Tire 95,Photograph 94,Vehicle 94,Sky 93,Automotive carrying rack 93,Vehicle registration plate 91,Automotive tail & brake light 91
+long 16.9872745 lat 46.4551385 viewpoint 0 degrees.jpeg,Building 95,Window 94,Urban design 85,Mode of transport 85,Tree 81,Asphalt 81,Font 80,Facade 79,Parking 77,City 75
+long 16.9872745 lat 46.4551385 viewpoint 180 degrees.jpeg,Building 87,Lighting 86,Asphalt 80,Window 79,Screenshot 77,Road 76,Display device 74,Font 73,Facade 73,Pedestrian 72
+long 16.9872745 lat 46.4551385 viewpoint 270 degrees.jpeg,Car 97,Cloud 97,Sky 96,Building 95,Vehicle 94,Window 90,Infrastructure 90,Asphalt 89,Tire 88,Wheel 87
+long 16.9872745 lat 46.4551385 viewpoint 90 degrees.jpeg,Cloud 97,Car 97,Wheel 95,Tire 95,Photograph 94,Vehicle 94,Sky 93,Automotive carrying rack 93,Vehicle registration plate 91,Automotive tail & brake light 91
+long 16.987296 lat 46.455048 viewpoint 0 degrees.jpeg,Building 95,Window 94,Urban design 85,Mode of transport 85,Tree 81,Asphalt 81,Font 80,Facade 79,Parking 77,City 75
+long 16.987296 lat 46.455048 viewpoint 180 degrees.jpeg,Building 87,Lighting 86,Asphalt 80,Window 79,Screenshot 77,Road 76,Display device 74,Font 73,Facade 73,Pedestrian 72
+long 16.987296 lat 46.455048 viewpoint 270 degrees.jpeg,Car 97,Cloud 97,Sky 96,Building 95,Vehicle 94,Window 90,Infrastructure 90,Asphalt 89,Tire 88,Wheel 87
+long 16.987296 lat 46.455048 viewpoint 90 degrees.jpeg,Cloud 97,Car 97,Wheel 95,Tire 95,Photograph 94,Vehicle 94,Sky 93,Automotive carrying rack 93,Vehicle registration plate 91,Automotive tail & brake light 91
+long 16.9873375 lat 46.455177375 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.9873375 lat 46.455177375 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9873375 lat 46.455177375 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 90,Window 89,Asphalt 87,Lighting 87,Road surface 86,Architecture 85,Urban design 85
+long 16.9873375 lat 46.455177375 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.9873845 lat 46.45514125 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.9873845 lat 46.45514125 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9873845 lat 46.45514125 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.9873845 lat 46.45514125 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.9873933333333 lat 46.4552464166667 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.9873933333333 lat 46.4552464166667 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9873933333333 lat 46.4552464166667 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.9873933333333 lat 46.4552464166667 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.9874005 lat 46.45521625 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 89,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 79,City 78,Metropolitan area 77,Condominium 77
+long 16.9874005 lat 46.45521625 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9874005 lat 46.45521625 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.9874005 lat 46.45521625 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.987422 lat 46.45512575 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.987422 lat 46.45512575 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Photograph 94,Wheel 93,Cloud 90,Infrastructure 90,Sky 88
+long 16.987422 lat 46.45512575 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 90,Window 89,Asphalt 87,Lighting 87,Road surface 86,Urban design 86,Mode of transport 84
+long 16.987422 lat 46.45512575 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.98744075 lat 46.45521975 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.98744075 lat 46.45521975 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.98744075 lat 46.45521975 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.98744075 lat 46.45521975 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.9874478333333 lat 46.4552346666667 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.9874478333333 lat 46.4552346666667 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.9874478333333 lat 46.4552346666667 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.9874478333333 lat 46.4552346666667 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.9874496666667 lat 46.455212 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.9874496666667 lat 46.455212 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9874496666667 lat 46.455212 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.9874496666667 lat 46.455212 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.98745025 lat 46.455097375 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.98745025 lat 46.455097375 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.98745025 lat 46.455097375 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.98745025 lat 46.455097375 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.987473 lat 46.455084 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.987473 lat 46.455084 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.987473 lat 46.455084 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.987473 lat 46.455084 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Window 89,Asphalt 89,Wheel 88,Motor vehicle 87,Road surface 86
+long 16.987473 lat 46.4552345 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.987473 lat 46.4552345 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.987473 lat 46.4552345 viewpoint 270 degrees.jpeg,Building 93,Cloud 90,Infrastructure 90,Car 89,Asphalt 88,Road surface 87,Mode of transport 86,Window 85,Urban design 84,Sky 84
+long 16.987473 lat 46.4552345 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.9874746666667 lat 46.4551366666667 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.9874746666667 lat 46.4551366666667 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9874746666667 lat 46.4551366666667 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 90,Window 89,Asphalt 87,Lighting 87,Road surface 86,Architecture 85,Urban design 85
+long 16.9874746666667 lat 46.4551366666667 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.9874765 lat 46.455114 viewpoint 0 degrees.jpeg,Building 93,Plant 89,Window 88,Urban design 85,Tree 85,Neighbourhood 81,Sidewalk 78,City 78,Road 77,Metropolitan area 77
+long 16.9874765 lat 46.455114 viewpoint 180 degrees.jpeg,Automotive parking light 98,Car 96,Building 95,Tire 94,Vehicle 94,Wheel 94,Cloud 90,Infrastructure 89,Vehicle registration plate 88,Sky 88
+long 16.9874765 lat 46.455114 viewpoint 270 degrees.jpeg,Building 96,Cloud 95,Infrastructure 90,Sky 89,Window 89,Lighting 87,Asphalt 86,Road surface 86,Architecture 85,Urban design 85
+long 16.9874765 lat 46.455114 viewpoint 90 degrees.jpeg,Cloud 96,Car 94,Vehicle 92,Sky 92,Infrastructure 90,Asphalt 89,Window 89,Motor vehicle 87,Road surface 86,Wheel 86
+long 16.987489125 lat 46.455166625 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 73,Facade 72,Signage 67,Video game software 67,Multimedia 65
+long 16.987489125 lat 46.455166625 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.987489125 lat 46.455166625 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.987489125 lat 46.455166625 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.9875336666667 lat 46.4552638333333 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.9875336666667 lat 46.4552638333333 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.9875336666667 lat 46.4552638333333 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.9875336666667 lat 46.4552638333333 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.987548 lat 46.4552035 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.987548 lat 46.4552035 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.987548 lat 46.4552035 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.987548 lat 46.4552035 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.9875606666667 lat 46.455176 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.9875606666667 lat 46.455176 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.9875606666667 lat 46.455176 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.9875606666667 lat 46.455176 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.987573 lat 46.4551281666667 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.987573 lat 46.4551281666667 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.987573 lat 46.4551281666667 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.987573 lat 46.4551281666667 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.98759975 lat 46.4551570625 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 73,Facade 72,Signage 67,Video game software 67,Multimedia 65
+long 16.98759975 lat 46.4551570625 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.98759975 lat 46.4551570625 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.98759975 lat 46.4551570625 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.9876045 lat 46.45514675 viewpoint 0 degrees.jpeg,Building 94,Urban design 81,Screenshot 80,Window 78,Font 75,Asphalt 72,Facade 72,Signage 68,Video game software 66,Multimedia 66
+long 16.9876045 lat 46.45514675 viewpoint 180 degrees.jpeg,Cloud 96,Sky 95,Building 93,Infrastructure 89,Asphalt 86,Urban design 84,Screenshot 82,Font 82,Public space 81,Software 78
+long 16.9876045 lat 46.45514675 viewpoint 270 degrees.jpeg,Building 93,Cloud 91,Infrastructure 90,Asphalt 88,Road surface 88,Car 87,Mode of transport 86,Urban design 84,Window 84,Sky 83
+long 16.9876045 lat 46.45514675 viewpoint 90 degrees.jpeg,Cloud 97,Sky 94,Window 90,Infrastructure 89,Asphalt 89,Building 89,Road surface 86,Mode of transport 85,Thoroughfare 83,Screenshot 82
+long 16.987607 lat 46.4552006666667 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.987607 lat 46.4552006666667 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.987607 lat 46.4552006666667 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.987607 lat 46.4552006666667 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.9876248333333 lat 46.4552855 viewpoint 0 degrees.jpeg,Building 93,Window 87,Urban design 84,Mode of transport 84,Screenshot 80,Font 80,Facade 74,Display device 73,Multimedia 72,Multimedia software 69
+long 16.9876248333333 lat 46.4552855 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.9876248333333 lat 46.4552855 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.9876248333333 lat 46.4552855 viewpoint 90 degrees.jpeg,Cloud 96,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 86,Thoroughfare 85,Screenshot 83
+long 16.9876285 lat 46.4552105 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.9876285 lat 46.4552105 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.9876285 lat 46.4552105 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.9876365 lat 46.45529675 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.9876365 lat 46.45529675 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.9876365 lat 46.45529675 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.9876365 lat 46.45529675 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.9876426666667 lat 46.4552403333333 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.9876426666667 lat 46.4552403333333 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.9876426666667 lat 46.4552403333333 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.9876426666667 lat 46.4552403333333 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.98765 lat 46.45512 viewpoint 0 degrees.jpeg,Building 93,Window 86,Asphalt 83,Urban design 82,Screenshot 82,Facade 79,Font 76,City 75,Display device 74,Tree 73
+long 16.98765 lat 46.45512 viewpoint 180 degrees.jpeg,Cloud 96,Sky 93,Asphalt 88,Urban design 85,Road surface 85,Mode of transport 85,Screenshot 84,Biome 84,Building 79,Font 78
+long 16.98765 lat 46.45512 viewpoint 270 degrees.jpeg,Tire 97,Car 97,Land vehicle 96,Wheel 96,Vehicle 95,Cloud 94,Building 93,Sky 91,Window 91,Asphalt 88
+long 16.98765 lat 46.45512 viewpoint 90 degrees.jpeg,Cloud 96,Sky 94,Building 86,Mode of transport 86,Window 85,Urban design 84,Asphalt 84,Screenshot 83,Road surface 82,Wheel 78
+long 16.987657 lat 46.45518 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.987657 lat 46.45518 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.987657 lat 46.45518 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.987657 lat 46.45518 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.987674 lat 46.45528125 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.987674 lat 46.45528125 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.987674 lat 46.45528125 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Road surface 87,Sky 86,Mode of transport 85,Urban design 85,Car 84
+long 16.987674 lat 46.45528125 viewpoint 90 degrees.jpeg,Cloud 96,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 86,Thoroughfare 85,Screenshot 83
+long 16.9876748333333 lat 46.4551348333333 viewpoint 0 degrees.jpeg,Building 93,Window 86,Asphalt 83,Urban design 82,Screenshot 82,Facade 79,Font 76,City 75,Display device 74,Tree 73
+long 16.9876748333333 lat 46.4551348333333 viewpoint 180 degrees.jpeg,Cloud 96,Sky 93,Asphalt 88,Urban design 85,Road surface 85,Mode of transport 85,Screenshot 84,Biome 84,Building 79,Font 78
+long 16.9876748333333 lat 46.4551348333333 viewpoint 270 degrees.jpeg,Tire 97,Car 97,Land vehicle 96,Wheel 96,Vehicle 95,Cloud 94,Building 93,Sky 91,Window 91,Asphalt 88
+long 16.9876748333333 lat 46.4551348333333 viewpoint 90 degrees.jpeg,Cloud 96,Sky 94,Building 86,Mode of transport 86,Window 85,Urban design 84,Asphalt 84,Screenshot 83,Road surface 82,Wheel 78
+long 16.987693 lat 46.45524 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.987693 lat 46.45524 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.987693 lat 46.45524 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.987693 lat 46.45524 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.98770375 lat 46.45519475 viewpoint 0 degrees.jpeg,Building 93,Window 89,Urban design 85,Mode of transport 84,Screenshot 81,Font 78,Facade 74,Display device 74,Multimedia 72,City 69
+long 16.98770375 lat 46.45519475 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 92,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Building 84,Screenshot 83,Font 82
+long 16.98770375 lat 46.45519475 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.98770375 lat 46.45519475 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.9877115 lat 46.45516825 viewpoint 0 degrees.jpeg,Building 93,Window 87,Urban design 84,Mode of transport 84,Screenshot 80,Font 80,Facade 74,Display device 73,Multimedia 72,Multimedia software 69
+long 16.9877115 lat 46.45516825 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Sky 93,Infrastructure 89,Lighting 87,Asphalt 86,Urban design 84,Screenshot 83,Building 82,Font 82
+long 16.9877115 lat 46.45516825 viewpoint 270 degrees.jpeg,Photograph 94,Cloud 93,Building 93,Infrastructure 89,Asphalt 88,Sky 87,Road surface 86,Mode of transport 85,Urban design 85,Car 84
+long 16.9877115 lat 46.45516825 viewpoint 90 degrees.jpeg,Cloud 97,Sky 95,Photograph 94,Window 92,Infrastructure 89,Asphalt 89,Road surface 87,Mode of transport 85,Thoroughfare 85,Screenshot 82
+long 16.987724 lat 46.4551305833333 viewpoint 0 degrees.jpeg,Building 93,Window 86,Asphalt 83,Urban design 82,Screenshot 82,Facade 79,Font 76,City 75,Display device 74,Tree 73
+long 16.987724 lat 46.4551305833333 viewpoint 180 degrees.jpeg,Cloud 96,Sky 94,Asphalt 88,Urban design 85,Mode of transport 84,Screenshot 84,Road surface 84,Biome 84,Building 79,Font 78
+long 16.987724 lat 46.4551305833333 viewpoint 270 degrees.jpeg,Tire 97,Car 97,Land vehicle 96,Wheel 96,Vehicle 95,Cloud 94,Building 93,Sky 91,Window 91,Asphalt 88
+long 16.987724 lat 46.4551305833333 viewpoint 90 degrees.jpeg,Cloud 96,Sky 94,Building 86,Mode of transport 86,Window 85,Urban design 84,Asphalt 84,Screenshot 83,Road surface 82,Wheel 78
+long 16.987741 lat 46.4551668333333 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.987741 lat 46.4551668333333 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.987741 lat 46.4551668333333 viewpoint 270 degrees.jpeg,Cloud 92,Sky 91,Building 90,Car 88,Asphalt 86,Road surface 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.987741 lat 46.4551668333333 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.987743 lat 46.4552193333333 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.987743 lat 46.4552193333333 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.987743 lat 46.4552193333333 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.987743 lat 46.4552193333333 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.9877465 lat 46.4552995 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.9877465 lat 46.4552995 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.9877465 lat 46.4552995 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.9877465 lat 46.4552995 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.98775875 lat 46.455196125 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.98775875 lat 46.455196125 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.98775875 lat 46.455196125 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.98775875 lat 46.455196125 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.9877745 lat 46.455207125 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.9877745 lat 46.455207125 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.9877745 lat 46.455207125 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.9877745 lat 46.455207125 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.9877775 lat 46.455188375 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.9877775 lat 46.455188375 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.9877775 lat 46.455188375 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.9877775 lat 46.455188375 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 85,Urban design 83
+long 16.987784 lat 46.4551865 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.987784 lat 46.4551865 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.987784 lat 46.4551865 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.987784 lat 46.4551865 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.9878 lat 46.455359 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.9878 lat 46.455359 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 81,Font 77,Urban design 73,Games 72,Road 70,City 68,Multimedia software 67
+long 16.9878 lat 46.455359 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.9878 lat 46.455359 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.98781625 lat 46.45520125 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.98781625 lat 46.45520125 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 88,Urban design 84,Sky 84,Asphalt 83,Font 80,Screenshot 80,City 80,Road 76
+long 16.98781625 lat 46.45520125 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.98781625 lat 46.45520125 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.987827 lat 46.455156 viewpoint 0 degrees.jpeg,Property 94,Building 93,Window 92,Real estate 78,Urban design 78,Font 78,Facade 76,Screenshot 74,Asphalt 74,Commercial building 74
+long 16.987827 lat 46.455156 viewpoint 180 degrees.jpeg,Cloud 95,Photograph 94,Building 89,Sky 85,Urban design 84,Asphalt 83,City 80,Screenshot 80,Font 79,Road 75
+long 16.987827 lat 46.455156 viewpoint 270 degrees.jpeg,Cloud 93,Sky 92,Building 90,Car 87,Road surface 86,Asphalt 86,Urban design 85,Mode of transport 84,Screenshot 81,Thoroughfare 81
+long 16.987827 lat 46.455156 viewpoint 90 degrees.jpeg,Sky 96,Cloud 96,Photograph 94,Road surface 89,Infrastructure 89,Asphalt 89,Lighting 87,Thoroughfare 86,Street light 83,Urban design 83
+long 16.987827 lat 46.4552711666667 viewpoint 0 degrees.jpeg,Building 91,Cloud 90,Window 88,Urban design 86,Asphalt 84,Sky 82,Tree 79,Screenshot 78,Font 77,Facade 72
+long 16.987827 lat 46.4552711666667 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987827 lat 46.4552711666667 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987827 lat 46.4552711666667 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.9878375 lat 46.455246 viewpoint 0 degrees.jpeg,Building 91,Cloud 89,Window 88,Urban design 86,Asphalt 84,Sky 81,Tree 80,Screenshot 78,Font 77,Facade 73
+long 16.9878375 lat 46.455246 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.9878375 lat 46.455246 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.9878375 lat 46.455246 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.9878565 lat 46.45530225 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.9878565 lat 46.45530225 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.9878565 lat 46.45530225 viewpoint 270 degrees.jpeg,Cloud 95,Sky 94,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 84,Screenshot 83,Line 82
+long 16.9878565 lat 46.45530225 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.987875 lat 46.455133 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.987875 lat 46.455133 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987875 lat 46.455133 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987875 lat 46.455133 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.987894 lat 46.45518925 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.987894 lat 46.45518925 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987894 lat 46.45518925 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987894 lat 46.45518925 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.987902 lat 46.4552755 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.987902 lat 46.4552755 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987902 lat 46.4552755 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987902 lat 46.4552755 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.987913 lat 46.4552455 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.987913 lat 46.4552455 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987913 lat 46.4552455 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987913 lat 46.4552455 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.987918375 lat 46.455222875 viewpoint 0 degrees.jpeg,Building 91,Cloud 89,Window 88,Urban design 86,Asphalt 84,Sky 81,Tree 80,Screenshot 78,Font 77,Facade 73
+long 16.987918375 lat 46.455222875 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987918375 lat 46.455222875 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987918375 lat 46.455222875 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.987938 lat 46.4552351666667 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.987938 lat 46.4552351666667 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.987938 lat 46.4552351666667 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.987938 lat 46.4552351666667 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Asphalt 88,Road surface 88,Urban design 84,Plant 84,Screenshot 82,Road 80
+long 16.98795525 lat 46.4552196875 viewpoint 0 degrees.jpeg,Building 90,Cloud 89,Window 86,Urban design 86,Asphalt 85,Sky 81,Tree 80,Screenshot 77,Font 76,Facade 72
+long 16.98795525 lat 46.4552196875 viewpoint 180 degrees.jpeg,Window 93,Building 89,Asphalt 83,Screenshot 80,Font 78,Urban design 72,Games 72,Road 70,City 69,Multimedia 66
+long 16.98795525 lat 46.4552196875 viewpoint 270 degrees.jpeg,Cloud 96,Sky 93,Building 90,Infrastructure 90,Road surface 87,Asphalt 87,Urban design 85,Mode of transport 85,Screenshot 83,Line 82
+long 16.98795525 lat 46.4552196875 viewpoint 90 degrees.jpeg,Cloud 97,Photograph 94,Sky 93,Infrastructure 89,Road surface 88,Asphalt 88,Mode of transport 84,Urban design 84,Plant 82,Screenshot 82
+long 16.98798 lat 46.4552610833333 viewpoint 0 degrees.jpeg,Cloud 96,Photograph 94,Asphalt 88,Urban design 86,Mode of transport 85,Biome 84,Screenshot 84,Tree 84,Sky 84,Line 82
+long 16.98798 lat 46.4552610833333 viewpoint 180 degrees.jpeg,Window 91,World 86,Screenshot 84,Urban design 78,Software 74,Building 73,Facade 73,Recreation 71,Multimedia software 70,Animation 66
+long 16.98798 lat 46.4552610833333 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Photograph 94,Building 88,Asphalt 87,Road surface 86,Mode of transport 84,Screenshot 83,Urban design 82,Line 82
+long 16.98798 lat 46.4552610833333 viewpoint 90 degrees.jpeg,Cloud 97,Sky 97,Street light 91,Infrastructure 90,Asphalt 89,Road surface 89,Lighting 86,Mode of transport 85,Urban design 84,Thoroughfare 83
+long 16.98798525 lat 46.4552485 viewpoint 0 degrees.jpeg,Cloud 96,Photograph 94,Asphalt 88,Urban design 86,Mode of transport 85,Biome 84,Tree 84,Screenshot 84,Sky 84,Road surface 79
+long 16.98798525 lat 46.4552485 viewpoint 180 degrees.jpeg,Window 91,World 86,Screenshot 84,Urban design 78,Software 74,Building 73,Facade 73,Recreation 71,Multimedia software 70,Animation 66
+long 16.98798525 lat 46.4552485 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Photograph 94,Building 88,Asphalt 87,Road surface 86,Mode of transport 84,Screenshot 83,Urban design 82,Line 82
+long 16.98798525 lat 46.4552485 viewpoint 90 degrees.jpeg,Cloud 97,Sky 97,Street light 91,Infrastructure 90,Asphalt 89,Road surface 89,Lighting 86,Mode of transport 85,Urban design 84,Thoroughfare 83
+long 16.988004 lat 46.455192 viewpoint 0 degrees.jpeg,Cloud 96,Asphalt 88,Urban design 86,Mode of transport 85,Tree 85,Screenshot 84,Biome 84,Sky 83,Road surface 80,Software 78
+long 16.988004 lat 46.455192 viewpoint 180 degrees.jpeg,Window 91,World 86,Screenshot 84,Urban design 78,Software 74,Building 73,Facade 73,Recreation 71,Multimedia software 70,Animation 66
+long 16.988004 lat 46.455192 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Photograph 94,Building 87,Asphalt 87,Road surface 86,Mode of transport 84,Screenshot 83,Urban design 82,Line 82
+long 16.988004 lat 46.455192 viewpoint 90 degrees.jpeg,Cloud 97,Sky 97,Street light 91,Infrastructure 90,Asphalt 89,Road surface 89,Lighting 86,Mode of transport 85,Urban design 84,Thoroughfare 83
+long 16.988133 lat 46.455251 viewpoint 0 degrees.jpeg,Building 90,Road surface 88,Cloud 88,Asphalt 87,Tree 86,Urban design 85,Mode of transport 85,Biome 83,Screenshot 82,Thoroughfare 80
+long 16.988133 lat 46.455251 viewpoint 180 degrees.jpeg,Cloud 95,Sky 92,World 88,Screenshot 84,Font 83,Asphalt 83,Urban design 82,Software 81,City 76,Facade 76
+long 16.988133 lat 46.455251 viewpoint 270 degrees.jpeg,Building 95,Photograph 94,Window 93,Cloud 93,Tire 90,Automotive lighting 87,Street light 87,Sky 86,Automotive mirror 86,Architecture 85
+long 16.988133 lat 46.455251 viewpoint 90 degrees.jpeg,Cloud 98,Sky 96,Plant 95,Street light 93,Infrastructure 89,Lighting 88,Tree 87,Urban design 86,Asphalt 86,Land lot 85

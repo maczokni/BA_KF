@@ -1,0 +1,395 @@
+long 17.011954 lat 46.454668 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.011954 lat 46.454668 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 80,Software 77,Street light 77,Font 77,Road 76,Road surface 75
+long 17.011954 lat 46.454668 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.011954 lat 46.454668 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.0119915 lat 46.4545029166667 viewpoint 0 degrees.jpeg,Car 97,Land vehicle 96,Wheel 95,Sky 95,Tire 93,Motor vehicle 92,Vehicle 91,Infrastructure 90,Automotive lighting 89,Asphalt 89
+long 17.0119915 lat 46.4545029166667 viewpoint 180 degrees.jpeg,Sky 94,Street light 89,Asphalt 88,Mode of transport 86,Font 81,Screenshot 80,Road 79,Software 77,Urban design 76,Road surface 76
+long 17.0119915 lat 46.4545029166667 viewpoint 90 degrees.jpeg,Tire 93,Motor vehicle 88,Wheel 86,Asphalt 85,Automotive tire 83,Font 82,Screenshot 81,Automotive exterior 78,Technology 75,Parking 74
+long 17.0120085 lat 46.4545022916667 viewpoint 0 degrees.jpeg,Car 97,Land vehicle 96,Wheel 95,Sky 95,Tire 93,Motor vehicle 92,Vehicle 91,Infrastructure 90,Automotive lighting 89,Asphalt 89
+long 17.0120085 lat 46.4545022916667 viewpoint 180 degrees.jpeg,Sky 94,Street light 89,Asphalt 88,Mode of transport 86,Font 81,Screenshot 80,Road 79,Software 77,Urban design 76,Road surface 76
+long 17.0120085 lat 46.4545022916667 viewpoint 270 degrees.jpeg,Sky 97,Cloud 94,Street light 93,Car 91,Infrastructure 90,Asphalt 89,Road surface 87,Lighting 87,Mode of transport 86,Motor vehicle 85
+long 17.0120085 lat 46.4545022916667 viewpoint 90 degrees.jpeg,Tire 93,Motor vehicle 88,Wheel 86,Asphalt 85,Automotive tire 83,Font 82,Screenshot 81,Automotive exterior 78,Technology 75,Parking 74
+long 17.01202 lat 46.4545144615385 viewpoint 0 degrees.jpeg,Car 97,Land vehicle 96,Wheel 95,Sky 95,Tire 93,Motor vehicle 92,Vehicle 91,Infrastructure 90,Automotive lighting 89,Asphalt 89
+long 17.01202 lat 46.4545144615385 viewpoint 180 degrees.jpeg,Sky 94,Street light 89,Asphalt 88,Mode of transport 86,Font 82,Screenshot 80,Road 79,Software 77,Urban design 76,Technology 74
+long 17.01202 lat 46.4545144615385 viewpoint 270 degrees.jpeg,Sky 97,Cloud 94,Street light 93,Car 91,Infrastructure 90,Asphalt 89,Road surface 87,Lighting 87,Mode of transport 86,Motor vehicle 85
+long 17.01202 lat 46.4545144615385 viewpoint 90 degrees.jpeg,Tire 93,Motor vehicle 88,Wheel 86,Asphalt 85,Automotive tire 83,Font 82,Screenshot 81,Automotive exterior 78,Technology 75,Parking 74
+long 17.012029 lat 46.4543378333333 viewpoint 0 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Automotive tail & brake light 96,Wheel 96,Vehicle 94,Automotive lighting 90,Motor vehicle 88,Asphalt 87,Automotive design 84
+long 17.012029 lat 46.4543378333333 viewpoint 180 degrees.jpeg,Car 97,Cloud 96,Sky 94,Vehicle 92,Automotive lighting 90,Tire 90,Motor vehicle 88,Automotive design 87,Wheel 86,Automotive tire 86
+long 17.012029 lat 46.4543378333333 viewpoint 270 degrees.jpeg,Automotive parking light 98,Cloud 98,Car 97,Sky 97,Wheel 94,Vehicle 94,Tire 94,Street light 90,Automotive mirror 90,Infrastructure 89
+long 17.012029 lat 46.4543378333333 viewpoint 90 degrees.jpeg,Automotive parking light 97,Car 95,Vehicle 95,Tire 93,Motor vehicle 91,Wheel 91,Automotive design 88,Plant 87,Building 86,Automotive tire 83
+long 17.0120356923077 lat 46.4545138846154 viewpoint 0 degrees.jpeg,Car 97,Land vehicle 96,Wheel 95,Sky 95,Tire 93,Motor vehicle 92,Vehicle 91,Infrastructure 90,Automotive lighting 89,Asphalt 89
+long 17.012061875 lat 46.4545137638889 viewpoint 0 degrees.jpeg,Car 97,Land vehicle 96,Wheel 95,Sky 95,Tire 93,Motor vehicle 92,Vehicle 91,Infrastructure 90,Automotive lighting 89,Asphalt 89
+long 17.012061875 lat 46.4545137638889 viewpoint 180 degrees.jpeg,Sky 94,Street light 89,Asphalt 88,Mode of transport 86,Font 81,Screenshot 80,Road 79,Software 77,Urban design 76,Road surface 76
+long 17.012061875 lat 46.4545137638889 viewpoint 270 degrees.jpeg,Sky 97,Cloud 94,Street light 93,Car 91,Infrastructure 90,Asphalt 89,Road surface 87,Lighting 87,Mode of transport 86,Motor vehicle 85
+long 17.012061875 lat 46.4545137638889 viewpoint 90 degrees.jpeg,Tire 93,Motor vehicle 88,Wheel 86,Asphalt 85,Automotive tire 83,Font 82,Screenshot 81,Automotive exterior 78,Technology 75,Parking 74
+long 17.01206425 lat 46.4545271111111 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.01206425 lat 46.4545271111111 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 80,Software 77,Street light 77,Font 77,Road 76,Road surface 75
+long 17.01206425 lat 46.4545271111111 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.01206425 lat 46.4545271111111 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.0120665 lat 46.45417275 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.0120665 lat 46.45417275 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 98,Sky 95,Car 93,Infrastructure 90,Automotive lighting 89,Asphalt 89,Vehicle 85,Automotive mirror 84,Automotive tire 84
+long 17.0120665 lat 46.45417275 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.0120665 lat 46.45417275 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.0120768636364 lat 46.4545288636364 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.0120768636364 lat 46.4545288636364 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 80,Software 77,Street light 77,Font 77,Road 76,Road surface 75
+long 17.0120768636364 lat 46.4545288636364 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.0120768636364 lat 46.4545288636364 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.012086 lat 46.4543609230769 viewpoint 0 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Wheel 96,Automotive tail & brake light 96,Vehicle 94,Automotive lighting 89,Motor vehicle 88,Asphalt 87,Automotive design 84
+long 17.012086 lat 46.4543609230769 viewpoint 180 degrees.jpeg,Car 97,Cloud 96,Sky 94,Vehicle 92,Automotive lighting 90,Tire 90,Motor vehicle 88,Automotive design 87,Wheel 86,Automotive tire 86
+long 17.012086 lat 46.4543609230769 viewpoint 270 degrees.jpeg,Automotive parking light 98,Cloud 98,Car 97,Sky 97,Wheel 94,Vehicle 94,Tire 94,Street light 90,Automotive mirror 90,Infrastructure 89
+long 17.012086 lat 46.4543609230769 viewpoint 90 degrees.jpeg,Automotive parking light 97,Car 95,Vehicle 95,Tire 93,Motor vehicle 91,Wheel 91,Automotive design 88,Plant 87,Building 86,Automotive tire 83
+long 17.012092 lat 46.4545309666667 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.012092 lat 46.4545309666667 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 79,Software 77,Automotive lighting 77,Street light 77,Font 77,Road 77
+long 17.012092 lat 46.4545309666667 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.012092 lat 46.4545309666667 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.012093875 lat 46.4543490902778 viewpoint 0 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Automotive tail & brake light 96,Wheel 96,Vehicle 94,Automotive lighting 90,Motor vehicle 88,Asphalt 87,Automotive design 84
+long 17.012093875 lat 46.4543490902778 viewpoint 180 degrees.jpeg,Car 97,Cloud 96,Sky 94,Vehicle 92,Automotive lighting 90,Tire 90,Motor vehicle 88,Automotive design 87,Wheel 86,Automotive tire 86
+long 17.012093875 lat 46.4543490902778 viewpoint 270 degrees.jpeg,Automotive parking light 98,Cloud 98,Car 97,Sky 97,Wheel 94,Vehicle 94,Tire 94,Street light 90,Automotive mirror 90,Infrastructure 89
+long 17.012093875 lat 46.4543490902778 viewpoint 90 degrees.jpeg,Automotive parking light 97,Car 95,Vehicle 95,Tire 93,Motor vehicle 91,Wheel 91,Automotive design 88,Plant 87,Building 86,Automotive tire 83
+long 17.01209485 lat 46.4545469833333 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.01209485 lat 46.4545469833333 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 80,Software 77,Street light 77,Font 77,Road 76,Road surface 75
+long 17.01209485 lat 46.4545469833333 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.01209485 lat 46.4545469833333 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.0121139583333 lat 46.4545724583333 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.0121139583333 lat 46.4545724583333 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 80,Software 77,Street light 77,Font 77,Road 76,Road surface 75
+long 17.0121139583333 lat 46.4545724583333 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.0121139583333 lat 46.4545724583333 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.0121173846154 lat 46.4543597692308 viewpoint 0 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Automotive tail & brake light 96,Wheel 96,Vehicle 94,Automotive lighting 90,Motor vehicle 88,Asphalt 87,Automotive design 84
+long 17.0121173846154 lat 46.4543597692308 viewpoint 180 degrees.jpeg,Car 97,Cloud 96,Sky 94,Vehicle 92,Automotive lighting 90,Tire 90,Motor vehicle 88,Automotive design 87,Wheel 86,Automotive tire 86
+long 17.0121173846154 lat 46.4543597692308 viewpoint 270 degrees.jpeg,Automotive parking light 98,Cloud 98,Car 97,Sky 97,Wheel 94,Vehicle 94,Tire 94,Street light 90,Automotive mirror 90,Infrastructure 89
+long 17.0121173846154 lat 46.4543597692308 viewpoint 90 degrees.jpeg,Automotive parking light 97,Car 95,Vehicle 95,Tire 93,Motor vehicle 91,Wheel 91,Automotive design 88,Plant 87,Building 86,Automotive tire 83
+long 17.0121175 lat 46.454170875 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.0121175 lat 46.454170875 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.0121175 lat 46.454170875 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.0121175 lat 46.454170875 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.0121255714286 lat 46.4545792142857 viewpoint 0 degrees.jpeg,Car 96,Sky 96,Wheel 93,Vehicle 93,Motor vehicle 91,Tire 91,Asphalt 87,Automotive design 87,Automotive tire 86,Mode of transport 85
+long 17.0121255714286 lat 46.4545792142857 viewpoint 180 degrees.jpeg,Sky 93,Asphalt 88,Screenshot 81,Automotive tire 81,Urban design 80,Software 77,Street light 77,Font 77,Road 76,Road surface 75
+long 17.0121255714286 lat 46.4545792142857 viewpoint 270 degrees.jpeg,Sky 97,Wheel 96,Tire 93,Motor vehicle 92,Vehicle 92,Car 92,Automotive tire 90,Cloud 88,Asphalt 86,Mode of transport 84
+long 17.0121255714286 lat 46.4545792142857 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 97,Tire 96,Vehicle 95,Automotive tail & brake light 93,Motor vehicle 92,Automotive lighting 91,Automotive design 91,Automotive tire 88,Vehicle registration plate 87
+long 17.0121372727273 lat 46.454185030303 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.0121372727273 lat 46.454185030303 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.0121372727273 lat 46.454185030303 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.0121372727273 lat 46.454185030303 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.012152 lat 46.4542073846154 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.012152 lat 46.4542073846154 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.012152 lat 46.4542073846154 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Automotive lighting 89,Wheel 88,Mode of transport 85
+long 17.0121898333333 lat 46.4543056666667 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.0121898333333 lat 46.4543056666667 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.0121898333333 lat 46.4543056666667 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.0121898333333 lat 46.4543056666667 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.01219625 lat 46.4541952638889 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 90,Tire 89,Plant 86,Automotive design 86,Car 85,Flowerpot 84,Cloud 84,Asphalt 83
+long 17.01219625 lat 46.4541952638889 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.01219625 lat 46.4541952638889 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.01219625 lat 46.4541952638889 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 92,Tire 91,Automotive design 90,Wheel 90,Vehicle registration plate 89,Automotive lighting 89,Mode of transport 85
+long 17.0121990769231 lat 46.4542056538462 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 90,Tire 88,Automotive design 86,Car 86,Plant 86,Cloud 85,Flowerpot 84,Asphalt 83
+long 17.0121990769231 lat 46.4542056538462 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.0121990769231 lat 46.4542056538462 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.0121990769231 lat 46.4542056538462 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.01219925 lat 46.4542478541667 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 90,Tire 88,Automotive design 86,Car 86,Plant 86,Cloud 85,Flowerpot 84,Asphalt 83
+long 17.01219925 lat 46.4542478541667 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.01219925 lat 46.4542478541667 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.01219925 lat 46.4542478541667 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.01221125 lat 46.4541438 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.01221125 lat 46.4541438 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.01221125 lat 46.4541438 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.01221125 lat 46.4541438 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.012237 lat 46.4542332 viewpoint 0 degrees.jpeg,Vehicle 92,Building 90,Sky 88,Tire 87,Automotive design 86,Plant 86,Car 86,Cloud 84,Flowerpot 84,Asphalt 82
+long 17.012237 lat 46.4542332 viewpoint 180 degrees.jpeg,Automotive parking light 98,Cloud 97,Sky 95,Car 93,Infrastructure 90,Asphalt 89,Automotive lighting 89,Vehicle 85,Motor vehicle 84,Automotive mirror 83
+long 17.012237 lat 46.4542332 viewpoint 270 degrees.jpeg,Cloud 97,Car 97,Sky 96,Vehicle 95,Motor vehicle 92,Infrastructure 90,Street light 87,Lighting 87,Asphalt 87,Urban design 84
+long 17.012237 lat 46.4542332 viewpoint 90 degrees.jpeg,Automotive parking light 98,Car 96,Vehicle 94,Motor vehicle 93,Tire 91,Automotive design 90,Vehicle registration plate 90,Wheel 90,Automotive lighting 89,Mode of transport 85
+long 17.0128217272727 lat 46.4528359090909 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0128217272727 lat 46.4528359090909 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0128217272727 lat 46.4528359090909 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0128217272727 lat 46.4528359090909 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01282625 lat 46.4527520833333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01282625 lat 46.4527520833333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01282625 lat 46.4527520833333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01282625 lat 46.4527520833333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0128636 lat 46.4528010666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0128636 lat 46.4528010666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0128636 lat 46.4528010666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0128636 lat 46.4528010666667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0128947142857 lat 46.4528071428571 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.0128947142857 lat 46.4528071428571 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0128947142857 lat 46.4528071428571 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0128947142857 lat 46.4528071428571 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.012898 lat 46.4528871111111 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.012898 lat 46.4528871111111 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.012898 lat 46.4528871111111 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.012898 lat 46.4528871111111 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129105 lat 46.4528320833333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129105 lat 46.4528320833333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129105 lat 46.4528320833333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129105 lat 46.4528320833333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129278 lat 46.4528612 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129278 lat 46.4528612 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129278 lat 46.4528612 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 89,Screenshot 83,Line 83,Grass 81,Font 80,Asphalt 75,Software 74
+long 17.0129278 lat 46.4528612 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129332857143 lat 46.4529014047619 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.0129332857143 lat 46.4529014047619 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129332857143 lat 46.4529014047619 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129332857143 lat 46.4529014047619 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129343076923 lat 46.4528186153846 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129343076923 lat 46.4528186153846 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Plant 90,Tree 89,Asphalt 88,Screenshot 83,Biome 82,Font 81,Natural landscape 81,Road 80
+long 17.0129343076923 lat 46.4528186153846 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129343076923 lat 46.4528186153846 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129449 lat 46.4529573 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129449 lat 46.4529573 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129449 lat 46.4529573 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129449 lat 46.4529573 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01295975 lat 46.452912125 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01295975 lat 46.452912125 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01295975 lat 46.452912125 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01295975 lat 46.452912125 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129774285714 lat 46.4529422857143 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129774285714 lat 46.4529422857143 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129774285714 lat 46.4529422857143 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129774285714 lat 46.4529422857143 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 89,Cloud 88,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 84
+long 17.0129803333333 lat 46.452920462963 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129803333333 lat 46.452920462963 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129803333333 lat 46.452920462963 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129803333333 lat 46.452920462963 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129968 lat 46.4529271333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129968 lat 46.4529271333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129968 lat 46.4529271333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129968 lat 46.4529271333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0129983636364 lat 46.4529936818182 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0129983636364 lat 46.4529936818182 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0129983636364 lat 46.4529936818182 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0129983636364 lat 46.4529936818182 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130034545455 lat 46.4529626060606 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.0130034545455 lat 46.4529626060606 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130034545455 lat 46.4529626060606 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 89,Screenshot 83,Line 83,Grass 81,Font 80,Asphalt 75,Software 74
+long 17.0130034545455 lat 46.4529626060606 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013006625 lat 46.4527057708333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013006625 lat 46.4527057708333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013006625 lat 46.4527057708333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013006625 lat 46.4527057708333 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 90,Cloud 89,Asphalt 88,Mode of transport 85,Personal computer 85,Natural landscape 84
+long 17.0130071818182 lat 46.4528290909091 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130071818182 lat 46.4528290909091 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130071818182 lat 46.4528290909091 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130071818182 lat 46.4528290909091 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130102727273 lat 46.4529325909091 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130102727273 lat 46.4529325909091 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130102727273 lat 46.4529325909091 viewpoint 270 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 90,Screenshot 83,Line 83,Grass 81,Font 80,Asphalt 78,Tree 75
+long 17.0130102727273 lat 46.4529325909091 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01301525 lat 46.4529646527778 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01301525 lat 46.4529646527778 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01301525 lat 46.4529646527778 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01301525 lat 46.4529646527778 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013016 lat 46.4526645 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.013016 lat 46.4526645 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013016 lat 46.4526645 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013016 lat 46.4526645 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013024 lat 46.4530941111111 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.013024 lat 46.4530941111111 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013024 lat 46.4530941111111 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013024 lat 46.4530941111111 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01303275 lat 46.4531256388889 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01303275 lat 46.4531256388889 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01303275 lat 46.4531256388889 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01303275 lat 46.4531256388889 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013037375 lat 46.452784625 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013037375 lat 46.452784625 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013037375 lat 46.452784625 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013037375 lat 46.452784625 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 89,Cloud 88,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 84
+long 17.0130418 lat 46.4527290333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130418 lat 46.4527290333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130418 lat 46.4527290333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130418 lat 46.4527290333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01304825 lat 46.4531308 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01304825 lat 46.4531308 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01304825 lat 46.4531308 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01304825 lat 46.4531308 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130549230769 lat 46.4529604461538 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130549230769 lat 46.4529604461538 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130549230769 lat 46.4529604461538 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130549230769 lat 46.4529604461538 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013059 lat 46.4527720555556 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013059 lat 46.4527720555556 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013059 lat 46.4527720555556 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013059 lat 46.4527720555556 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130601428571 lat 46.4530774285714 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130601428571 lat 46.4530774285714 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130601428571 lat 46.4530774285714 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130601428571 lat 46.4530774285714 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 90,Cloud 89,Asphalt 88,Mode of transport 85,Personal computer 85,Natural landscape 84
+long 17.01306525 lat 46.4527445416667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01306525 lat 46.4527445416667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Plant 90,Tree 89,Asphalt 88,Screenshot 83,Biome 82,Font 81,Natural landscape 81,Road 80
+long 17.01306525 lat 46.4527445416667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01306525 lat 46.4527445416667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130733333333 lat 46.4529793 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130733333333 lat 46.4529793 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130733333333 lat 46.4529793 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130733333333 lat 46.4529793 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130766428571 lat 46.452779202381 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130766428571 lat 46.452779202381 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130766428571 lat 46.452779202381 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130766428571 lat 46.452779202381 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013089875 lat 46.4527845625 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013089875 lat 46.4527845625 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013089875 lat 46.4527845625 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013089875 lat 46.4527845625 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0130965 lat 46.45312115 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0130965 lat 46.45312115 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0130965 lat 46.45312115 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0130965 lat 46.45312115 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131001666667 lat 46.4527887314815 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131001666667 lat 46.4527887314815 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131001666667 lat 46.4527887314815 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131001666667 lat 46.4527887314815 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131024 lat 46.4529192666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131024 lat 46.4529192666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131024 lat 46.4529192666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131024 lat 46.4529192666667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131055 lat 46.4529728666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.0131055 lat 46.4529728666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131055 lat 46.4529728666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131055 lat 46.4529728666667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131117272727 lat 46.4528098030303 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131117272727 lat 46.4528098030303 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131117272727 lat 46.4528098030303 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131117272727 lat 46.4528098030303 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131151363636 lat 46.4527947954545 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131151363636 lat 46.4527947954545 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131151363636 lat 46.4527947954545 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131151363636 lat 46.4527947954545 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013117625 lat 46.4528108263889 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013117625 lat 46.4528108263889 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Plant 90,Tree 89,Asphalt 88,Screenshot 83,Biome 82,Font 81,Natural landscape 81,Road 80
+long 17.013117625 lat 46.4528108263889 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013117625 lat 46.4528108263889 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131231428571 lat 46.4529369285714 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131231428571 lat 46.4529369285714 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131231428571 lat 46.4529369285714 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131231428571 lat 46.4529369285714 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131252 lat 46.4530474 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131252 lat 46.4530474 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131252 lat 46.4530474 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131252 lat 46.4530474 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131374615385 lat 46.4528087230769 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131374615385 lat 46.4528087230769 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131374615385 lat 46.4528087230769 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131374615385 lat 46.4528087230769 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131376666667 lat 46.4529664333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131376666667 lat 46.4529664333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131376666667 lat 46.4529664333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131376666667 lat 46.4529664333333 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 90,Cloud 89,Asphalt 88,Mode of transport 85,Personal computer 85,Natural landscape 84
+long 17.013140625 lat 46.4529714027778 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013140625 lat 46.4529714027778 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013140625 lat 46.4529714027778 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013140625 lat 46.4529714027778 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131428571429 lat 46.4532125714286 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131428571429 lat 46.4532125714286 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131428571429 lat 46.4532125714286 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131428571429 lat 46.4532125714286 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131466666667 lat 46.45281815 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131466666667 lat 46.45281815 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131466666667 lat 46.45281815 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131466666667 lat 46.45281815 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 89,Cloud 88,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 84
+long 17.0131533 lat 46.45315955 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131533 lat 46.45315955 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131533 lat 46.45315955 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131533 lat 46.45315955 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01316275 lat 46.4528149333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01316275 lat 46.4528149333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01316275 lat 46.4528149333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01316275 lat 46.4528149333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01316675 lat 46.4531182222222 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01316675 lat 46.4531182222222 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01316675 lat 46.4531182222222 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01316675 lat 46.4531182222222 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131755333333 lat 46.4529920333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Light 91,Asphalt 89,Personal computer 86,Mode of transport 85,Screenshot 84,Tree 83,Font 82,Road 79
+long 17.0131755333333 lat 46.4529920333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131755333333 lat 46.4529920333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131755333333 lat 46.4529920333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131767142857 lat 46.4530731428571 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131767142857 lat 46.4530731428571 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131767142857 lat 46.4530731428571 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131767142857 lat 46.4530731428571 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131769 lat 46.4531167 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131769 lat 46.4531167 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131769 lat 46.4531167 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131769 lat 46.4531167 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131788333333 lat 46.4528117166667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131788333333 lat 46.4528117166667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131788333333 lat 46.4528117166667 viewpoint 270 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 90,Screenshot 83,Line 83,Grass 81,Font 80,Asphalt 78,Tree 75
+long 17.0131788333333 lat 46.4528117166667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013179 lat 46.4531958888889 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013179 lat 46.4531958888889 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013179 lat 46.4531958888889 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 89,Screenshot 83,Line 83,Grass 81,Font 80,Asphalt 75,Software 74
+long 17.013179 lat 46.4531958888889 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131912666667 lat 46.4529634666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131912666667 lat 46.4529634666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131912666667 lat 46.4529634666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131912666667 lat 46.4529634666667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131977666667 lat 46.4528245166667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0131977666667 lat 46.4528245166667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131977666667 lat 46.4528245166667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131977666667 lat 46.4528245166667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0131983333333 lat 46.4531201666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.0131983333333 lat 46.4531201666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0131983333333 lat 46.4531201666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0131983333333 lat 46.4531201666667 viewpoint 90 degrees.jpeg,Sky 96,Photograph 94,Plant 92,Nature 90,Tree 89,Cloud 88,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 84
+long 17.0132055555556 lat 46.4529657777778 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132055555556 lat 46.4529657777778 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132055555556 lat 46.4529657777778 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132055555556 lat 46.4529657777778 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132056333333 lat 46.4528102333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132056333333 lat 46.4528102333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132056333333 lat 46.4528102333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132056333333 lat 46.4528102333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132127777778 lat 46.4528113888889 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132127777778 lat 46.4528113888889 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132127777778 lat 46.4528113888889 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132127777778 lat 46.4528113888889 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01321555 lat 46.45298295 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01321555 lat 46.45298295 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.01321555 lat 46.45298295 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01321555 lat 46.45298295 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.01322 lat 46.452657 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.01322 lat 46.452657 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Plant 90,Tree 89,Asphalt 88,Screenshot 83,Biome 82,Font 81,Natural landscape 81,Road 80
+long 17.01322 lat 46.452657 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.01322 lat 46.452657 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132217083333 lat 46.4528128333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132217083333 lat 46.4528128333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132217083333 lat 46.4528128333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132217083333 lat 46.4528128333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132234166667 lat 46.4529686666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132234166667 lat 46.4529686666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132234166667 lat 46.4529686666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132234166667 lat 46.4529686666667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013225125 lat 46.4531245 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013225125 lat 46.4531245 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013225125 lat 46.4531245 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013225125 lat 46.4531245 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132302857143 lat 46.4532093571429 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132302857143 lat 46.4532093571429 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Plant 90,Tree 89,Asphalt 88,Screenshot 83,Biome 82,Font 81,Natural landscape 81,Road 80
+long 17.0132302857143 lat 46.4532093571429 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132302857143 lat 46.4532093571429 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132331904762 lat 46.4528146904762 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132331904762 lat 46.4528146904762 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132331904762 lat 46.4528146904762 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132331904762 lat 46.4528146904762 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132372222222 lat 46.4531437407407 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132372222222 lat 46.4531437407407 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Plant 90,Tree 89,Asphalt 88,Screenshot 83,Biome 82,Font 81,Natural landscape 81,Road 80
+long 17.0132372222222 lat 46.4531437407407 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132372222222 lat 46.4531437407407 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132463809524 lat 46.4529723809524 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Infrastructure 89,Asphalt 88,Personal computer 88,Mode of transport 85,Tree 84,Screenshot 84,Font 82,Road 79
+long 17.0132463809524 lat 46.4529723809524 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132463809524 lat 46.4529723809524 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132463809524 lat 46.4529723809524 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132485 lat 46.4528171666667 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132485 lat 46.4528171666667 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132485 lat 46.4528171666667 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132485 lat 46.4528171666667 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0132595714286 lat 46.4531300714286 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0132595714286 lat 46.4531300714286 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0132595714286 lat 46.4531300714286 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.0132595714286 lat 46.4531300714286 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.013277 lat 46.4529773333333 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.013277 lat 46.4529773333333 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.013277 lat 46.4529773333333 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 88,Screenshot 84,Line 83,Grass 81,Font 80,Asphalt 76,Software 74
+long 17.013277 lat 46.4529773333333 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83
+long 17.0133055 lat 46.4531375 viewpoint 0 degrees.jpeg,Sky 96,Cloud 94,Personal computer 89,Infrastructure 89,Asphalt 88,Mode of transport 85,Screenshot 84,Tree 84,Font 82,Road 79
+long 17.0133055 lat 46.4531375 viewpoint 180 degrees.jpeg,Sky 93,Light 91,Nature 90,Plant 89,Tree 89,Asphalt 88,Biome 83,Screenshot 82,Font 82,Natural landscape 81
+long 17.0133055 lat 46.4531375 viewpoint 270 degrees.jpeg,Sky 92,Light 91,Nature 90,Plant 89,Screenshot 83,Line 83,Grass 81,Font 80,Asphalt 75,Software 74
+long 17.0133055 lat 46.4531375 viewpoint 90 degrees.jpeg,Sky 96,Plant 92,Nature 90,Cloud 89,Tree 89,Asphalt 88,Mode of transport 85,Natural landscape 84,Screenshot 83,Personal computer 83

@@ -1,0 +1,107 @@
+long 17.000826 lat 46.457834 viewpoint 0 degrees.jpeg,Plant 96,Nature 90,Tree 90,Asphalt 88,Road surface 86,Mode of transport 85,Natural landscape 84,Biome 84,Screenshot 82,Font 82
+long 17.000826 lat 46.457834 viewpoint 180 degrees.jpeg,Plant 96,Cloud 96,Sky 91,Tree 89,Asphalt 86,Automotive mirror 85,Natural landscape 84,Mode of transport 84,Road surface 84,Woody plant 81
+long 17.000826 lat 46.457834 viewpoint 270 degrees.jpeg,Cloud 97,Sky 95,Property 94,Photograph 94,Plant 90,Asphalt 88,Land lot 86,Tree 85,Urban design 85,Biome 84
+long 17.000826 lat 46.457834 viewpoint 90 degrees.jpeg,Plant 90,Infrastructure 89,Asphalt 88,Tree 86,Mode of transport 85,Yellow 84,Screenshot 83,Road surface 83,Cloud 82,Font 81
+long 17.0008515 lat 46.4577395 viewpoint 0 degrees.jpeg,Plant 96,Cloud 92,Sky 91,Nature 90,Asphalt 88,Tree 87,Land lot 85,Mode of transport 85,Screenshot 82,Font 82
+long 17.0008515 lat 46.4577395 viewpoint 180 degrees.jpeg,Cloud 97,Plant 95,Sky 91,Asphalt 88,Road surface 87,Tree 87,Screenshot 83,Biome 82,Natural landscape 82,Font 82
+long 17.0008515 lat 46.4577395 viewpoint 270 degrees.jpeg,Cloud 98,Sky 95,Property 94,Photograph 94,Plant 92,Asphalt 87,Road surface 86,Building 86,Land lot 85,Urban design 85
+long 17.0008515 lat 46.4577395 viewpoint 90 degrees.jpeg,Plant 96,Tree 88,Cloud 86,Asphalt 85,Road surface 85,Mode of transport 85,Automotive mirror 83,Street light 82,Screenshot 82,Woody plant 81
+long 17.0009243333333 lat 46.4577355 viewpoint 0 degrees.jpeg,Plant 96,Tree 89,Asphalt 87,Mode of transport 86,Road surface 86,Biome 84,Font 83,Natural landscape 83,Screenshot 83,Line 82
+long 17.0009243333333 lat 46.4577355 viewpoint 180 degrees.jpeg,Plant 96,Cloud 96,Sky 93,Tree 89,Asphalt 87,Road surface 85,Automotive mirror 85,Natural landscape 84,Thoroughfare 80,Road 78
+long 17.0009243333333 lat 46.4577355 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Property 95,Photograph 94,Asphalt 88,Plant 87,Land lot 86,Urban design 85,Biome 84,Tree 84
+long 17.0009243333333 lat 46.4577355 viewpoint 90 degrees.jpeg,Plant 91,Infrastructure 89,Asphalt 87,Tree 87,Mode of transport 85,Screenshot 83,Cloud 83,Urban design 82,Road surface 82,Font 80
+long 17.0009258333333 lat 46.4577385 viewpoint 0 degrees.jpeg,Plant 96,Tree 89,Asphalt 87,Mode of transport 86,Road surface 86,Biome 84,Font 83,Natural landscape 83,Screenshot 83,Line 82
+long 17.0009258333333 lat 46.4577385 viewpoint 180 degrees.jpeg,Plant 96,Cloud 96,Sky 93,Tree 89,Asphalt 87,Road surface 85,Automotive mirror 85,Natural landscape 84,Thoroughfare 80,Road 78
+long 17.0009258333333 lat 46.4577385 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Property 95,Photograph 94,Asphalt 88,Plant 87,Land lot 86,Urban design 85,Biome 84,Tree 84
+long 17.0009258333333 lat 46.4577385 viewpoint 90 degrees.jpeg,Plant 91,Infrastructure 89,Asphalt 88,Tree 87,Mode of transport 85,Screenshot 83,Road surface 82,Urban design 82,Cloud 82,Font 80
+long 17.0009421111111 lat 46.4577696666667 viewpoint 0 degrees.jpeg,Plant 96,Tree 89,Asphalt 87,Mode of transport 86,Road surface 86,Biome 84,Font 83,Natural landscape 83,Screenshot 83,Line 82
+long 17.0009421111111 lat 46.4577696666667 viewpoint 180 degrees.jpeg,Plant 96,Cloud 96,Sky 93,Tree 89,Asphalt 87,Road surface 85,Automotive mirror 85,Natural landscape 84,Thoroughfare 80,Road 78
+long 17.0009421111111 lat 46.4577696666667 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Property 95,Photograph 94,Asphalt 88,Plant 87,Land lot 86,Urban design 85,Biome 84,Tree 84
+long 17.0009421111111 lat 46.4577696666667 viewpoint 90 degrees.jpeg,Plant 91,Infrastructure 89,Asphalt 87,Tree 87,Mode of transport 85,Screenshot 83,Cloud 83,Urban design 82,Road surface 82,Font 80
+long 17.0009716666667 lat 46.457826 viewpoint 0 degrees.jpeg,Plant 96,Ecoregion 93,Tree 88,Natural landscape 88,Road surface 87,Asphalt 87,Land lot 85,Mode of transport 84,Biome 83,Terrestrial plant 82
+long 17.0009716666667 lat 46.457826 viewpoint 180 degrees.jpeg,Plant 97,Cloud 95,Tree 90,Nature 90,Natural landscape 87,Asphalt 87,Sky 85,Vegetation 85,Mode of transport 84,Road surface 83
+long 17.0009716666667 lat 46.457826 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Property 95,Plant 92,Tree 88,Asphalt 88,Land lot 87,Urban design 84,Road surface 83,Biome 83
+long 17.0009716666667 lat 46.457826 viewpoint 90 degrees.jpeg,Plant 93,Tree 88,Road surface 87,Asphalt 86,Mode of transport 85,Urban design 84,Font 82,Screenshot 82,Thoroughfare 82,Woody plant 81
+long 17.0009816666667 lat 46.4577975 viewpoint 0 degrees.jpeg,Plant 96,Property 94,Ecoregion 92,Light 91,Tree 89,Natural landscape 88,Asphalt 87,Road surface 86,Land lot 86,Biome 83
+long 17.0009816666667 lat 46.4577975 viewpoint 180 degrees.jpeg,Plant 96,Cloud 95,Tree 90,Nature 90,Asphalt 87,Natural landscape 86,Sky 85,Road surface 85,Vegetation 85,Mode of transport 84
+long 17.0009816666667 lat 46.4577975 viewpoint 270 degrees.jpeg,Cloud 97,Sky 96,Property 95,Plant 91,Asphalt 88,Tree 87,Land lot 87,Urban design 85,Biome 83,Screenshot 81
+long 17.0009816666667 lat 46.4577975 viewpoint 90 degrees.jpeg,Plant 93,Infrastructure 89,Tree 88,Road surface 88,Asphalt 87,Mode of transport 85,Urban design 84,Font 83,Screenshot 83,Thoroughfare 82
+long 17.0009886666667 lat 46.457763 viewpoint 0 degrees.jpeg,Plant 96,Property 94,Ecoregion 92,Light 91,Tree 89,Natural landscape 88,Asphalt 87,Road surface 86,Land lot 86,Biome 83
+long 17.0009886666667 lat 46.457763 viewpoint 180 degrees.jpeg,Plant 96,Cloud 95,Tree 90,Nature 90,Asphalt 87,Natural landscape 86,Sky 85,Road surface 85,Vegetation 85,Mode of transport 84
+long 17.0009886666667 lat 46.457763 viewpoint 90 degrees.jpeg,Plant 93,Infrastructure 89,Tree 88,Road surface 88,Asphalt 87,Mode of transport 85,Urban design 84,Font 83,Screenshot 83,Thoroughfare 82
+long 17.0009971666667 lat 46.4577315 viewpoint 0 degrees.jpeg,Plant 95,Sky 92,Car 91,Building 91,Motor vehicle 90,Infrastructure 89,Tree 89,Tire 89,Window 88,Vehicle 88
+long 17.0009971666667 lat 46.4577315 viewpoint 180 degrees.jpeg,Building 94,Road surface 88,Asphalt 88,Automotive lighting 88,Tree 88,Lighting 88,Window 88,Motor vehicle 87,Sky 87,Mode of transport 85
+long 17.0009971666667 lat 46.4577315 viewpoint 270 degrees.jpeg,Plant 94,Nature 90,Tree 89,Biome 84,Font 82,Screenshot 82,Woody plant 81,Software 80,Natural landscape 77,Asphalt 76
+long 17.0009971666667 lat 46.4577315 viewpoint 90 degrees.jpeg,Building 95,Window 94,Plant 87,Tree 83,Urban design 82,Facade 80,Condominium 78,Screenshot 76,City 74,Font 73
+long 17.0010086666667 lat 46.457706 viewpoint 0 degrees.jpeg,Car 96,Tire 94,Vehicle 93,Building 93,Window 93,Wheel 92,Automotive lighting 92,Plant 92,Sky 90,Motor vehicle 89
+long 17.0010086666667 lat 46.457706 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0010086666667 lat 46.457706 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0010086666667 lat 46.457706 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.0010156666667 lat 46.4576715 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0010156666667 lat 46.4576715 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0010156666667 lat 46.4576715 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0010156666667 lat 46.4576715 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 94,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Motor vehicle 83,Biome 82
+long 17.0010256666667 lat 46.457643 viewpoint 0 degrees.jpeg,Car 96,Tire 94,Building 94,Vehicle 93,Sky 92,Automotive lighting 92,Window 92,Motor vehicle 91,Plant 91,Tree 89
+long 17.0010256666667 lat 46.457643 viewpoint 180 degrees.jpeg,Property 94,Building 94,Plant 92,Automotive lighting 91,Motor vehicle 91,Vehicle 90,Car 89,Road surface 88,Lighting 88,Tree 88
+long 17.0010256666667 lat 46.457643 viewpoint 270 degrees.jpeg,Plant 94,Tree 87,Building 86,House 85,Biome 85,Font 84,Screenshot 83,Asphalt 83,Sky 82,Software 79
+long 17.0010256666667 lat 46.457643 viewpoint 90 degrees.jpeg,Building 96,Window 94,Plant 93,Architecture 86,Vehicle 86,Urban design 84,Neighbourhood 83,Motor vehicle 83,Screenshot 83,Residential area 81
+long 17.0010582222222 lat 46.4577053333333 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0010582222222 lat 46.4577053333333 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0010582222222 lat 46.4577053333333 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0010582222222 lat 46.4577053333333 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.0010887777778 lat 46.4577636666667 viewpoint 0 degrees.jpeg,Plant 95,Sky 92,Car 91,Building 91,Motor vehicle 90,Infrastructure 89,Tree 89,Tire 89,Window 88,Vehicle 88
+long 17.0010887777778 lat 46.4577636666667 viewpoint 180 degrees.jpeg,Building 94,Road surface 88,Asphalt 88,Automotive lighting 88,Tree 88,Lighting 88,Window 88,Motor vehicle 87,Sky 87,Mode of transport 85
+long 17.0010887777778 lat 46.4577636666667 viewpoint 270 degrees.jpeg,Plant 94,Nature 90,Tree 89,Biome 84,Font 82,Screenshot 82,Woody plant 81,Software 80,Natural landscape 77,Asphalt 76
+long 17.0010887777778 lat 46.4577636666667 viewpoint 90 degrees.jpeg,Building 95,Window 94,Plant 86,Urban design 82,Tree 82,Facade 79,Condominium 77,Screenshot 75,City 74,Font 73
+long 17.0011173333333 lat 46.457818 viewpoint 0 degrees.jpeg,Plant 95,Building 93,Sky 92,Car 92,Tree 90,Motor vehicle 89,Vehicle 89,Infrastructure 89,Tire 89,Window 88
+long 17.0011173333333 lat 46.457818 viewpoint 180 degrees.jpeg,Building 93,Asphalt 88,Road surface 88,Window 88,Tree 88,Lighting 88,Motor vehicle 87,Automotive lighting 87,Mode of transport 86,Sky 85
+long 17.0011173333333 lat 46.457818 viewpoint 270 degrees.jpeg,Plant 95,Nature 90,Tree 90,Biome 84,Screenshot 82,Woody plant 81,Asphalt 80,Font 80,Software 77,Technology 75
+long 17.0011173333333 lat 46.457818 viewpoint 90 degrees.jpeg,Building 95,Property 94,Window 94,Plant 85,Tree 83,Urban design 83,Neighbourhood 82,Residential area 81,Facade 79,Condominium 78
+long 17.0011258333333 lat 46.4577865 viewpoint 0 degrees.jpeg,Plant 95,Sky 92,Car 91,Building 91,Motor vehicle 90,Infrastructure 89,Tree 89,Tire 89,Window 88,Vehicle 88
+long 17.0011258333333 lat 46.4577865 viewpoint 180 degrees.jpeg,Building 94,Road surface 88,Asphalt 88,Automotive lighting 88,Tree 88,Lighting 88,Window 88,Motor vehicle 87,Sky 87,Mode of transport 85
+long 17.0011258333333 lat 46.4577865 viewpoint 270 degrees.jpeg,Plant 94,Nature 90,Tree 89,Biome 84,Font 82,Screenshot 82,Woody plant 81,Software 80,Natural landscape 77,Asphalt 76
+long 17.0011258333333 lat 46.4577865 viewpoint 90 degrees.jpeg,Building 95,Window 94,Plant 87,Tree 83,Urban design 82,Facade 80,Condominium 78,Screenshot 76,City 74,Font 73
+long 17.0011373333333 lat 46.457761 viewpoint 0 degrees.jpeg,Plant 95,Sky 92,Car 91,Building 91,Motor vehicle 90,Infrastructure 89,Tree 89,Tire 89,Window 88,Vehicle 88
+long 17.0011373333333 lat 46.457761 viewpoint 180 degrees.jpeg,Building 94,Road surface 88,Asphalt 88,Automotive lighting 88,Tree 88,Lighting 88,Window 88,Motor vehicle 87,Sky 87,Mode of transport 85
+long 17.0011373333333 lat 46.457761 viewpoint 270 degrees.jpeg,Plant 94,Nature 90,Tree 89,Biome 84,Font 82,Screenshot 82,Woody plant 81,Software 80,Natural landscape 77,Asphalt 76
+long 17.0011373333333 lat 46.457761 viewpoint 90 degrees.jpeg,Building 95,Window 94,Plant 87,Tree 83,Urban design 82,Facade 80,Condominium 78,Screenshot 76,City 74,Font 73
+long 17.0011443333333 lat 46.4577265 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0011443333333 lat 46.4577265 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 92,Motor vehicle 91,Road surface 89,Vehicle 89,Car 88,Lighting 88,Tree 87
+long 17.0011443333333 lat 46.4577265 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0011443333333 lat 46.4577265 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.0011543333333 lat 46.457698 viewpoint 0 degrees.jpeg,Car 96,Tire 94,Vehicle 93,Building 93,Window 93,Wheel 92,Automotive lighting 92,Plant 92,Sky 90,Motor vehicle 89
+long 17.0011543333333 lat 46.457698 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0011543333333 lat 46.457698 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0011543333333 lat 46.457698 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.0011658333333 lat 46.4576725 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0011658333333 lat 46.4576725 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0011658333333 lat 46.4576725 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0011658333333 lat 46.4576725 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 83,Residential area 82
+long 17.0011743333333 lat 46.457641 viewpoint 0 degrees.jpeg,Plant 96,Motor vehicle 92,Car 91,Building 91,Road surface 89,Sky 89,Vehicle 89,Asphalt 88,Tree 88,Mode of transport 86
+long 17.0011743333333 lat 46.457641 viewpoint 180 degrees.jpeg,Motor vehicle 90,Tree 90,Vehicle 89,Window 87,Sky 87,Asphalt 87,Plant 86,Lighting 86,Road surface 85,Mode of transport 84
+long 17.0011743333333 lat 46.457641 viewpoint 270 degrees.jpeg,Window 93,Building 89,Urban design 83,Screenshot 81,Font 80,Door 78,Facade 77,Software 77,House 73,Design 68
+long 17.0011743333333 lat 46.457641 viewpoint 90 degrees.jpeg,Building 96,Property 95,Window 93,Plant 91,Urban design 84,Vehicle 83,Biome 83,Motor vehicle 82,Tree 82,Condominium 80
+long 17.0012058888889 lat 46.4577013333333 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0012058888889 lat 46.4577013333333 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0012058888889 lat 46.4577013333333 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0012058888889 lat 46.4577013333333 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.0012186666667 lat 46.4577255 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0012186666667 lat 46.4577255 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0012186666667 lat 46.4577255 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0012186666667 lat 46.4577255 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.0012201666667 lat 46.4577285 viewpoint 0 degrees.jpeg,Car 95,Tire 94,Building 93,Vehicle 93,Window 93,Wheel 92,Automotive lighting 92,Sky 91,Motor vehicle 90,Plant 90
+long 17.0012201666667 lat 46.4577285 viewpoint 180 degrees.jpeg,Building 95,Property 94,Automotive lighting 92,Plant 91,Motor vehicle 91,Road surface 89,Car 88,Lighting 88,Vehicle 88,Tree 87
+long 17.0012201666667 lat 46.4577285 viewpoint 270 degrees.jpeg,Plant 93,Ecoregion 92,Tree 88,Building 87,Biome 85,House 84,Font 83,Screenshot 83,Asphalt 83,Sky 82
+long 17.0012201666667 lat 46.4577285 viewpoint 90 degrees.jpeg,Building 96,Property 94,Window 93,Plant 92,Architecture 86,Urban design 85,Screenshot 83,Neighbourhood 83,Biome 82,Motor vehicle 82
+long 17.001263 lat 46.45781 viewpoint 0 degrees.jpeg,Plant 95,Building 93,Sky 92,Car 92,Tree 90,Motor vehicle 89,Vehicle 89,Infrastructure 89,Tire 89,Window 88
+long 17.001263 lat 46.45781 viewpoint 180 degrees.jpeg,Building 93,Asphalt 88,Road surface 88,Window 88,Tree 88,Lighting 88,Motor vehicle 87,Automotive lighting 87,Mode of transport 86,Sky 85
+long 17.001263 lat 46.45781 viewpoint 270 degrees.jpeg,Plant 95,Nature 90,Tree 90,Biome 84,Screenshot 82,Woody plant 81,Asphalt 80,Font 80,Software 77,Technology 75
+long 17.001263 lat 46.45781 viewpoint 90 degrees.jpeg,Building 95,Property 94,Window 94,Plant 85,Tree 83,Urban design 83,Neighbourhood 82,Residential area 81,Facade 79,Condominium 78
+long 17.001293 lat 46.4577245 viewpoint 0 degrees.jpeg,Car 96,Tire 94,Building 94,Vehicle 93,Sky 92,Automotive lighting 92,Window 92,Motor vehicle 91,Plant 91,Tree 89
+long 17.001293 lat 46.4577245 viewpoint 180 degrees.jpeg,Property 94,Building 94,Plant 92,Automotive lighting 91,Motor vehicle 91,Vehicle 90,Road surface 89,Sky 88,Tree 88,Lighting 88
+long 17.001293 lat 46.4577245 viewpoint 270 degrees.jpeg,Plant 94,Tree 87,Building 87,Biome 85,House 84,Font 84,Asphalt 83,Screenshot 83,Sky 82,Software 79
+long 17.001293 lat 46.4577245 viewpoint 90 degrees.jpeg,Building 96,Window 94,Plant 93,Architecture 86,Vehicle 86,Urban design 84,Neighbourhood 83,Motor vehicle 83,Screenshot 83,Residential area 81
+long 17.001323 lat 46.457639 viewpoint 0 degrees.jpeg,Plant 96,Motor vehicle 92,Car 91,Building 91,Road surface 89,Sky 89,Vehicle 89,Asphalt 88,Tree 88,Mode of transport 86
+long 17.001323 lat 46.457639 viewpoint 180 degrees.jpeg,Motor vehicle 90,Tree 90,Vehicle 89,Window 87,Sky 87,Asphalt 87,Plant 86,Lighting 86,Road surface 85,Mode of transport 84
+long 17.001323 lat 46.457639 viewpoint 270 degrees.jpeg,Property 94,Window 93,Building 88,Urban design 82,Screenshot 81,Font 80,Software 77,Facade 77,Door 77,House 71
+long 17.001323 lat 46.457639 viewpoint 90 degrees.jpeg,Building 96,Property 95,Window 93,Plant 90,Urban design 84,Vehicle 84,Biome 83,Tree 82,Motor vehicle 81,Condominium 79
