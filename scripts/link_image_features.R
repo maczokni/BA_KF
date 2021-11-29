@@ -7,7 +7,7 @@ library(lwgeom) # package for calculating the area with geographic coords (lat/l
 # Function for cleaning up the confidence rating with each item
 #  NOTE: if we want to use these, will need to think of a way to preserve them. 
 deletePostSpace <- function(x){
-  return( gsub(" .*", "", x))
+  return( substr(x,1,nchar(x)-3))
 }
 
 # read in the polygon with the gender attached
@@ -24,7 +24,7 @@ geodata$poly_area <- lwgeom::st_geod_area(geodata)
 # then save these all as columns
 # and append to a dataframe where each polygon is 1 row
 
-datalist <- list() %>% # create empty list
+datalist <- list() # create empty list
 i <- 1 # iterator
 
 for (imgfilename in list.files("data/simon_data/Labelled polygon data/1 Safe/")){
@@ -102,7 +102,7 @@ all_data <- left_join(all_imgs_labelled, geodata, by = c("link_id" = "link_id"))
 all_data <- mutate(all_data, poly_area = as.numeric(poly_area))
 
 # save as csv
-write.csv(all_data %>% select(-geometry), "data/polys_linked_w_images.csv")
+write.csv(all_data %>% select(-geometry), "data/polys_linked_w_images_reka.csv")
 
 
 # There are two with non polygon areas (they are lines)
