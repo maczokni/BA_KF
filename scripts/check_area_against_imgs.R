@@ -39,13 +39,13 @@ ggplot(all_data, aes(x = type, y = poly_area)) +
 # people draw larger fear polygons and smaller safe polygons. 
 # I assume the number of images per each might be different too then
 
-
 ggplot(all_data, aes(x = type, y = num_images)) + 
   geom_boxplot() + 
   scale_y_log10() + 
   theme_minimal() + 
   xlab("Polygon type") + 
   ylab("Number of images per polygon")
+
 
 # Makes sense... 
 

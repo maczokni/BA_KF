@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "for_sso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "x": 5, "id": "721", "type": "safePolygon", "data": "Nő", "gender": "Female", "poly_area": 1174.9177628792822 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.994023, 46.454546 ], [ 16.994522, 46.454538 ], [ 16.994618, 46.454398 ], [ 16.994527, 46.454272 ], [ 16.994093, 46.454313 ], [ 16.993969, 46.454449 ], [ 16.994023, 46.454546 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 14, "id": "726", "type": "safePolygon", "data": "Férfi", "gender": "Male", "poly_area": 1059.0515825785697 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.994962, 46.455144 ], [ 16.995273, 46.455178 ], [ 16.9953, 46.454948 ], [ 16.995112, 46.454786 ], [ 16.994897, 46.454919 ], [ 16.994822, 46.455074 ], [ 16.994962, 46.455144 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 17, "id": "730", "type": "fearPolygon", "data": "Férfi", "gender": "Male", "poly_area": 8539.0153112113476 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.984481, 46.456388 ], [ 16.984567, 46.455844 ], [ 16.986335, 46.456234 ], [ 16.986164, 46.45679 ], [ 16.984481, 46.456388 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 28, "id": "741", "type": "fearPolygon", "data": "Nő", "gender": "Female", "poly_area": 8397.0690788477659 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.985056, 46.456527 ], [ 16.986172, 46.456799 ], [ 16.986498, 46.456279 ], [ 16.984662, 46.455912 ], [ 16.984456, 46.456385 ], [ 16.985056, 46.456527 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 39, "id": "765", "type": "safePolygon", "data": "Férfi", "gender": "Male", "poly_area": 9753.1275210380554 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.988133, 46.455217 ], [ 16.992047, 46.454898 ], [ 16.995292, 46.455217 ], [ 16.988133, 46.455217 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 41, "id": "768", "type": "fearPolygon", "data": "Férfi", "gender": "Male", "poly_area": 4804.7014127802104 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.998781, 46.45609 ], [ 16.999656, 46.456149 ], [ 16.999564, 46.456859 ], [ 16.998685, 46.45663 ], [ 16.998776, 46.456098 ], [ 16.998781, 46.45609 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 54, "id": "786", "type": "safePolygon", "data": "Nő", "gender": "Female", "poly_area": 7979.4355441331863 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.99726, 46.455946 ], [ 16.998891, 46.456072 ], [ 16.998687, 46.455318 ], [ 16.996906, 46.455636 ], [ 16.99726, 46.455946 ] ] ] } },
+{ "type": "Feature", "properties": { "x": 85, "id": "809", "type": "fearPolygon", "data": "Nő", "gender": "Female", "poly_area": 3944.3111906945705 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.000639, 46.457902 ], [ 17.000605, 46.457364 ], [ 17.001454, 46.457423 ], [ 17.001317, 46.458079 ], [ 17.000639, 46.457902 ] ] ] } }
+]
+}

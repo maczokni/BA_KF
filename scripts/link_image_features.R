@@ -102,8 +102,7 @@ all_data <- left_join(all_imgs_labelled, geodata, by = c("link_id" = "link_id"))
 all_data <- mutate(all_data, poly_area = as.numeric(poly_area))
 
 # save as csv
-write.csv(all_data %>% select(-geometry), "data/polys_linked_w_images_reka.csv")
-
+write.csv(all_data %>% select(-geometry), "data/polys_linked_w_images.csv")
 
 # There are two with non polygon areas (they are lines)
 # geodata %>% filter(link_id %in% c(54, 67)) %>% View()

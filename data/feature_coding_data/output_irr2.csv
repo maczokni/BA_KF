@@ -1,6 +1,6 @@
-Feature,r1,r2,r3,r4,r5,r6,r7,agree?,agree no r5,,
+Feature,r1,r2,r3,r4,r5,r6,r7,agree?,agree no r5 and r6,,
 Cloud,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,TRUE,TRUE,IRR with all 7,0.296875
-Car,Neutral,Neutral,Neutral,Neutral,Positive,Neutral,Neutral,FALSE,TRUE,IRR without r5,0.36875
+Car,Neutral,Neutral,Neutral,Neutral,Positive,Neutral,Neutral,FALSE,TRUE,IRR without r5 and r6,0.371875
 Vehicle,Neutral,Neutral,Neutral,Neutral,Positive,Neutral,Neutral,FALSE,TRUE,,
 Sky,Negative,Negative,Negative,Neutral,Positive,Positive,Neutral,FALSE,FALSE,,
 Building,Negative,Neutral,Positive,Neutral,Positive,Neutral,Neutral,FALSE,FALSE,,
@@ -301,7 +301,7 @@ Metal,Neutral,Neutral,Negative,Neutral,Neutral,Neutral,Negative,FALSE,FALSE,,
 Wire fencing,Positive,Positive,Positive,Negative,Neutral,Negative,Positive,FALSE,FALSE,,
 Bench,Neutral,Negative,Neutral,Neutral,Positive,Positive,Negative,FALSE,FALSE,,
 Food group,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,TRUE,TRUE,,
-Food,Neutral,Neutral,Neutral,Neutral,Neutral,Positive,Neutral,FALSE,FALSE,,
+Food,Neutral,Neutral,Neutral,Neutral,Neutral,Positive,Neutral,FALSE,TRUE,,
 Laptop,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,TRUE,TRUE,,
 Billboard,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,TRUE,TRUE,,
 Cartoon,Neutral,Neutral,Negative,Neutral,Positive,Neutral,Negative,FALSE,FALSE,,
