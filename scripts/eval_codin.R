@@ -2,6 +2,8 @@ library(janitor) # for tidying df names
 library(dplyr) # for data cleaning
 library(tidyr) # for data cleaning
 library(corrplot) # to make correlation plot
+library(irr)
+library(ggplot2)
 
 # read in dataset of coded variables
 coding <- read.csv("data/feature_coding_data/output_irr2.csv") %>% 
@@ -110,3 +112,86 @@ icc(corr_df, model="twoway", type="agreement")
 # Between 0.75 and 0.9: Good reliability
 # Greater than 0.9: Excellent reliability
 
+
+# All data from Simon
+
+algo_coding <- read.csv("data/simon_data/Simon Parkinson - diff scores.csv")
+algo_coding <- algo_coding %>% 
+  mutate(which = ifelse(safe > unsafe, "safe", "unsafe"), 
+         algo_score = ifelse(which == "safe", diff*-1, diff))
+
+alltogether <- left_join(coding %>% 
+                           mutate(link = tolower(gsub(" ", "",feature))), 
+                                  algo_coding %>%
+                           mutate(link = tolower(gsub(" ", "",Features))),
+                         by = c("link" = "link"))
+
+# correlation between composit human score and the algo score (diff)
+cor.test(alltogether$coding_score, alltogether$algo_score)
+
+ggplot(alltogether, aes(x = coding_score, y = algo_score)) + 
+  geom_jitter() + 
+  theme_minimal() + 
+  xlab("Score from coders") + 
+  ylab("Score from algorithm")
+
+alltogether <- alltogether %>% 
+  mutate(algo_cat = case_when(algo_score < 0 ~ "Negative", 
+                              algo_score == 0 ~ "Neutral", 
+                              algo_score > 0 ~ "Positive"), 
+         human_cat = case_when(coding_score < 0 ~ "Negative", 
+                               coding_score == 0 ~ "Neutral", 
+                               coding_score > 0 ~ "Positive"), 
+         disagreements = paste(human_cat, algo_cat, sep = "-"))
+
+
+human_neg_algo_pos <- alltogether %>% 
+  filter(human_cat == "Negative" & algo_cat == "Positive")
+
+human_pos_algo_neg <- alltogether %>% 
+  filter(human_cat == "Positive" & algo_cat == "Negative")
+
+ggplot() + 
+  geom_point(data = alltogether, aes(x = coding_score, y = algo_score)) + 
+  ggrepel::geom_label_repel(data = human_neg_algo_pos %>% filter(algo_score > 1), 
+             aes(x = coding_score, y = algo_score, label = feature), 
+             nudge_x = -3, nudge_y = 3, col = '#d73027') + 
+  ggrepel::geom_label_repel(data = human_pos_algo_neg %>% filter(algo_score <= -1),
+                            aes(x = coding_score, y = algo_score, label = feature),
+                            nudge_x = 3, nudge_y = -4, col = '#4575b4') +
+  theme_minimal() + 
+  xlab("Score from coders") + 
+  ylab("Score from algorithm")
+
+
+human_neg_algo_neg <- alltogether %>% 
+  filter(human_cat == "Negative" & algo_cat == "Negative")
+
+human_pos_algo_neg <- alltogether %>% 
+  filter(human_cat == "Positive" & algo_cat == "Negative")
+
+ggplot() + 
+  geom_point(data = alltogether, aes(x = coding_score, y = algo_score)) + 
+  ggrepel::geom_label_repel(data = human_neg_algo_neg %>% filter(algo_score < -1), 
+                            aes(x = coding_score, y = algo_score, label = feature), 
+                            nudge_x = -3, nudge_y = 3, col = '#1b7837') + 
+  theme_minimal() + 
+  xlab("Score from coders") + 
+  ylab("Score from algorithm")
+
+
+ggplot() + 
+  geom_point(data = alltogether, aes(x = coding_score, y = algo_score)) + 
+  ggrepel::geom_label_repel(data = alltogether %>% filter(coding_score > 3),
+                            aes(x = coding_score, y = algo_score, label = feature),
+                            nudge_x = 3, col = '#762a83') +
+  theme_minimal() + 
+  xlab("Score from coders") + 
+  ylab("Score from algorithm")
+
+# IRR STUFF 
+
+agree(alltogether %>% select(algo_cat, human_cat), tolerance = 0) 
+
+kappa2(alltogether %>% select(algo_cat, human_cat))
+                                  
