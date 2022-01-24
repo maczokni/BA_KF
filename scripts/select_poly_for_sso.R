@@ -29,4 +29,27 @@ leaflet(for_sso) %>%
               label = ~x) %>% 
   addLegend(pal = pal, values = ~type)
 
-              
+
+
+# -----
+  
+all_data <- read_csv("data/polys_linked_w_images.csv") %>% clean_names()
+geodata <- st_read("data/geodata_w_linkid.geojson")
+
+linked <- left_join(for_sso %>% 
+                      mutate(poly_area = as.numeric(poly_area)), geodata %>% st_drop_geometry())
+  
+  
+
+leaflet(linked) %>% 
+  addTiles() %>% 
+  addPolygons(fillOpacity = 0.7,
+              fillColor = ~pal(type), 
+              color = ~pal(type), 
+              label = ~link_id) %>% 
+  addLegend(pal = pal, values = ~type)
+
+
+
+
+
